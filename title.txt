@@ -1,0 +1,15 @@
+---
+title:
+- type: main
+  text: Scripted
+- type: subtitle
+  text: A Comedy
+creator:
+- role: author
+  text: Victor Blancada
+rights: © 2020 Victor Blancada
+cover-image: Scripted.jpg
+css: epub.css
+language: en-US
+description: An obnoxious producer demands pitches from a harried writer. Hilarity ensues.
+---
